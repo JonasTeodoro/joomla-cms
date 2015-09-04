@@ -43,3 +43,5 @@ $app = JFactory::getApplication('site');
 
 // Execute the application.
 $app->execute();
+
+print 'my JoomlaDay Brasil';
